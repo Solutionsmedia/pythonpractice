@@ -1,0 +1,11 @@
+def mark_habit():
+
+    with open("habit.json", "r") as habitdb:
+        habits, habit_statuss, time_log =
+
+        for habits in habitdb:
+            print(habits)
+        habit_mark = input("Kindly enter the book you want to mark")
+        if habit_mark in habits:
+            habit_status = True
+            habit_statuss.writee(True)

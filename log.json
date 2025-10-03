@@ -1,0 +1,37 @@
+[
+    {
+        "User": "solutions",
+        "Status": "Deposit",
+        "Amount": 500.0,
+        "Wallet Balance": 2100.0,
+        "Time": "2025-09-10 10:55:20"
+    },
+    {
+        "User": "solutions",
+        "Status": "Deposit",
+        "Amount": 400.0,
+        "Wallet Balance": 250,
+        "Time": "2025-09-10 10:55:20"
+    },
+    {
+        "User": "solutions",
+        "Status": "Deposit",
+        "Amount": 400.0,
+        "Wallet Balance": 2900.0,
+        "Time": "2025-09-10 10:55:20"
+    },
+    {
+        "User": "solutions",
+        "Status": "Deposit",
+        "Amount": 600.0,
+        "Wallet Balance": 3500.0,
+        "Time": "2025-09-10 21:30:30"
+    },
+    {
+        "User": "solutions",
+        "Status": "Withrawal",
+        "Amount": 2000.0,
+        "Wallet Balance": 1500.0,
+        "Time": "2025-09-11 03:02:22"
+    }
+]
